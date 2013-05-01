@@ -1,0 +1,18 @@
+{
+  "name": "ar-joy",
+  "version": "0.0.0",
+  "description": "Control AR drone with gamepad",
+  "main": "test.js",
+  "dependencies": {
+    "ar-drone": "~0.0.5",
+    "dronestream": "~1.0.3",
+    "msgpack-js": "~0.1.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "Tim Caswell <tim@creationix.com>",
+  "license": "Public Domain"
+}
